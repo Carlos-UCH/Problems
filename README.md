@@ -1,6 +1,12 @@
 # Competitive-Programming
 Problemas resolvidos de programação competitiva
 
-## Listas
-
+### Template
+- [Template](template/)
+  
+### Algoritmos
+- [Backtraking](backtraking/)
+- [BFS](bfs/)
+- [DFS](dfs/)
+### Listas
 - [Lista 1](lista1/)
