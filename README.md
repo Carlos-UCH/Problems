@@ -8,7 +8,7 @@ Problemas resolvidos de programação competitiva
 - [Backtraking](backtraking/)
 - [BFS](bfs/)
 - [DFS](dfs/)
-- [Crivo](crivodeEratostenes/)
+- [Crivo de Eratóstenes](crivodeEratostenes/)
 
 - ### Listas
 - [Lista 1](lista1/)
