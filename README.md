@@ -12,3 +12,4 @@ Problemas resolvidos de programação competitiva
 
 - ### Listas
 - [Lista 1](lista1/)
+- [Lista 2](lista2/)
