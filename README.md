@@ -5,7 +5,7 @@ Problemas resolvidos de programação competitiva
 - [Template](template/)
   
 ### Algoritmos
-- [Backtraking](backtraking/)
+- [Backtracking](backtraking/)
 - [BFS](bfs/)
 - [DFS](dfs/)
 - [Crivo de Eratóstenes](crivodeEratostenes/)
