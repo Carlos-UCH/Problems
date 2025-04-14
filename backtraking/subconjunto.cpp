@@ -25,6 +25,7 @@ void backtraking(vector<int>& xs, int i, int N, const vector<int>&as){
 		auto cs = candidates(i, as); 
 
 		for(auto c: cs){
+		  backtraking(xs, i + 1, N, as);
 		  xs.push_back(c); 
 		  backtraking(xs, i + 1, N, as);
 		  xs.pop_back(); 
