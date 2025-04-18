@@ -11,7 +11,7 @@ Problemas resolvidos de programação competitiva
 - [Crivo de Eratóstenes](crivodeEratostenes/)
 - [Meet in the middle](Meet_in_the_middle/)
   
-
 - ### Listas
 - [Lista 1](lista1/)
+- [Lista 1 EDA](ls1-C/)
 
