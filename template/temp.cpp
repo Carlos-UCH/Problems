@@ -19,9 +19,10 @@ using namespace std;
 
 const int inf = 0x3f3f3f3f;
 const ll linf = 0x3f3f3f3f3f3f3f3fll;
+ll meuJeitoNinja = 0; 
 
 template<typename Container, typename T>
-bool find(const T& value, const Container& container) {
+bool fd(const T& value, const Container& container) {
     return find(container.begin(), container.end(), value) != container.end();
 } 
 
