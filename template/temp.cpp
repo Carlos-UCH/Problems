@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 
-using namespace std;
+using namespace std; 
 
 #define ll long long
 #define ld long double
@@ -14,10 +14,16 @@ using namespace std;
 #define pll pair<ll, ll>
 #define vpll vector<pair<ll, ll>>
 #define endl '\n'
+#define found(x, y) (x.find(y) != x.end()) //set - map - unordered_set - unordered_map
+#define debug(x) cout << #x << " = " << x << endl
 
 const int inf = 0x3f3f3f3f;
 const ll linf = 0x3f3f3f3f3f3f3f3fll;
 
+template<typename Container, typename T>
+bool find(const T& value, const Container& container) {
+    return find(container.begin(), container.end(), value) != container.end();
+} 
 
 int main() {
     ios_base::sync_with_stdio(0);
@@ -28,3 +34,12 @@ int main() {
     return 0;
 
 }
+
+
+
+
+
+
+
+
+
