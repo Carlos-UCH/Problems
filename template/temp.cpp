@@ -7,8 +7,8 @@ using namespace std;
 #define vi vector<int>
 #define pb push_back
 #define mp make_pair
-#define f first
-#define s second
+#define ff first
+#define ss second
 #define all(x) x.begin(), x.end()
 #define vll vector<ll>
 #define pll pair<ll, ll>
