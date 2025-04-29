@@ -11,6 +11,7 @@ Problemas resolvidos de programação competitiva
 - [Crivo de Eratóstenes](crivodeEratostenes/)
 - [Meet in the middle](Meet_in_the_middle/)
 - [Guloso](guloso/)
+- [TwoPointers](twoPointers/)
   
 - ### Listas
 - [Lista 1](lista1/)
