@@ -16,4 +16,5 @@ Problemas resolvidos de programação competitiva
 - ### Listas
 - [Lista 1](lista1/)
 - [Lista 1 EDA](ls1-C/)
+- [Lista 2](lista2/)
 
