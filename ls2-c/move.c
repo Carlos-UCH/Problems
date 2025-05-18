@@ -17,16 +17,11 @@ char *trocar(char palavra[], char completa[], int tam, int idx, int i, int j){
 }
 
 int main(){
-    char palavra[102];
-    
-    fgets(palavra, sizeof(palavra), stdin);
+    char palavra[300]; scanf("%s", palavra);
     
     int tam = strlen(palavra);
-    if (tam > 0 && palavra[tam-1] == '\n') {
-        palavra[--tam] = '\0';
-    }
 
-    char nova[102];
+    char nova[300];
 
     printf("%s\n", trocar(palavra, nova, tam, tam - 1, 0, 0));
     return 0;
