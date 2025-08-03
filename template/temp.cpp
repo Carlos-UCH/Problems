@@ -13,6 +13,7 @@ using namespace std;
 #define vll vector<ll>
 #define pll pair<ll, ll>
 #define vpll vector<pair<ll, ll>>
+#define vvpll vector<vpll>
 #define endl '\n'
 #define found(x, y) (x.find(y) != x.end()) //set - map - unordered_set - unordered_map
 #define debug(x) cout << #x << " = " << x << endl
@@ -27,12 +28,11 @@ bool fd(const T& value, const Container& container) {
 } 
 
 int main() {
-    ios_base::sync_with_stdio(0);
-    cin.tie(0); 
+  ios_base::sync_with_stdio(0);
+  cin.tie(0); 
 	
 	
-
-    return 0;
+  return 0;
 
 }
 
