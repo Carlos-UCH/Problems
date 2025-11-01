@@ -2,6 +2,11 @@
 
 using namespace std; 
 
+#ifdef LOCAL
+#include "dbg/dbg.h"
+#else
+#define dbg(...)
+#endif
 #define ll long long
 #define ld long double
 #define vi vector<int>
